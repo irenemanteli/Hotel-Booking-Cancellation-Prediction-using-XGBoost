@@ -1,11 +1,11 @@
 🏨 Hotel Booking Cancellation Prediction
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project focuses on building a machine learning model to predict hotel booking cancellations using an XGBoost classifier. The goal is to improve prediction accuracy through effective data preprocessing, feature engineering, and model optimization.
 
 
-⚙️ Technologies Used
+⚙️ **Technologies Used**
 
 Python
 XGBoost
@@ -15,7 +15,7 @@ Scikit-learn
 Google Colab
 
 
-🧠 Project Workflow
+🧠 **Project Workflow**
 
 Data preprocessing and cleaning
 Feature engineering and selection
@@ -24,12 +24,12 @@ Hyperparameter tuning
 Model evaluation using classification metrics
 
 
-📊 Model Performance
+📊 **Model Performance**
 
 The model was optimized to improve predictive accuracy and generalization using gradient boosting techniques.
 
 
-🚀 Key Features
+🚀 **Key Features**
 
 Handles real-world hotel booking data
 Uses advanced gradient boosting (XGBoost)
