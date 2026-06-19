@@ -8,19 +8,28 @@ This project focuses on building a machine learning model to predict hotel booki
 ⚙️ **Technologies Used**
 
 Python
+
 XGBoost
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Google Colab
 
 
 🧠 **Project Workflow**
 
 Data preprocessing and cleaning
+
 Feature engineering and selection
+
 Model building using XGBoost
+
 Hyperparameter tuning
+
 Model evaluation using classification metrics
 
 
@@ -32,6 +41,9 @@ The model was optimized to improve predictive accuracy and generalization using 
 🚀 **Key Features**
 
 Handles real-world hotel booking data
+
 Uses advanced gradient boosting (XGBoost)
+
 Includes hyperparameter optimization
+
 Focus on improving classification performance
